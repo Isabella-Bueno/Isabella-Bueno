@@ -1,6 +1,7 @@
 <h1 align="center">Hey, Bem-Vindo(a) ao meu perfil!</h1>
 
-![Rosa Azul e Preto Gradiente Banner para Twitch](https://user-images.githubusercontent.com/112008347/186545525-e860bbef-d0c7-43c8-ba42-ebc03c994554.png)
+![gifhub capa](https://user-images.githubusercontent.com/112008347/187037726-7971abd8-31d8-47aa-9427-d8a8f717385d.png)
+
 
 🎯 Apaixonada por BI! Tenho objetivo de ajudar as empresas a tomarem decisões acertivas com analise de dados
 
