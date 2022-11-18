@@ -5,8 +5,6 @@
 
 🎯 Apaixonada por BI! Tenho objetivo de ajudar as empresas a tomarem decisões acertivas com analise de dados
 
-👩🏻‍💻 Atualmente sou estágiaria buscando nova oportunidade de crescimento em Business Intelligence
-
 🌱  Eu estou me aperfeiçoando em SQL e Modelagem de dados
 
 <h3 align="left"> HARD SKILLS </h1>
