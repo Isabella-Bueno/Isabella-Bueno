@@ -5,24 +5,23 @@
 
 🎯 Apaixonada por BI! Tenho objetivo de ajudar as empresas a tomarem decisões acertivas com analise de dados
 
-🌱  Eu estou me aperfeiçoando em SQL e Modelagem de dados
+🌱  Eu estou me aperfeiçoando em Phyton
 
 <h3 align="left"> HARD SKILLS </h1>
 
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![PWBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
+![excel 2](https://github.com/Isabella-Bueno/Isabella-Bueno/assets/112008347/9b232aef-9012-4cb6-8dc4-82a6f2f52c30)
+![python2](https://github.com/Isabella-Bueno/Isabella-Bueno/assets/112008347/77a5d315-03e4-44c2-8a7a-5a76c2ea625e)
+![sql](https://github.com/Isabella-Bueno/Isabella-Bueno/assets/112008347/904ac921-2122-4267-ab23-28ab5cdc4b8d)
+![power bi](https://github.com/Isabella-Bueno/Isabella-Bueno/assets/112008347/5dd34e84-94f4-4817-97c9-1c358e1c6f33)
+
+
 
 <h3 align="left"> CONTATOS </h1>
 
+![celular](https://github.com/Isabella-Bueno/Isabella-Bueno/assets/112008347/34575337-b763-455b-bea7-f3f60d14a044)
+ (11) 940644993
 
-📲 (11) 940644993
-
-📩 isabellabueno434@gmail.com
-
-
-
+![e-mail](https://github.com/Isabella-Bueno/Isabella-Bueno/assets/112008347/aba99b41-fafb-4682-a513-11fe8384c7a7)
+ isabellabueno434@gmail.com
 
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzzyBu&show_icons=true&theme=tokyonight)
