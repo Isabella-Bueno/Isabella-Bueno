@@ -5,7 +5,7 @@
 
 🎯 Apaixonada por BI! Tenho objetivo de ajudar as empresas a tomarem decisões acertivas com analise de dados
 
-🌱  Eu estou me aperfeiçoando em Phyton
+🌱  Eu estou me aperfeiçoando em Python
 
 <h3 align="left"> HARD SKILLS </h1>
 
